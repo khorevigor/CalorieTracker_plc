@@ -12,3 +12,4 @@ abstract class TrackerDatabase: RoomDatabase() {
 
     abstract val dao: TrackerDao
 }
+
